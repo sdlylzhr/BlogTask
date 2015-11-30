@@ -116,7 +116,7 @@ baz | baz  | baz
 图片
 ----
 
-![测试图片](http://img.ycwb.com/3c/attachement/jpg/site2/20151103/002511e1e2c117a2547514.jpg "sda")
+![测试图片](http://img1.gtimg.com/news/pics/hv1/154/114/1976/128518624.jpg "sda")
 ![测试图片2](source/_posts/logo2.jpg)
 
 文字
